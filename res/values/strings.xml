@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Untold Indian History</string>
+    <string name="action_settings">Settings</string>
+    <string name="historyButtonText">History</string>
+    <string name="historyButtonExpandedText">History Book</string>
+    <string name="psychButtonText">Psychology</string>
+    <string name="psychButtonExpandedText">Psychology Book</string>
+    <string name="editButtonText">Edit</string>
+    <string name="editButtonExpandedText">Edit Book</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
